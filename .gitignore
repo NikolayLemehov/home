@@ -21,3 +21,15 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+.idea
+.vscode
+package-lock.json
+*.ai
+*.psd
+*.sublime*
+npm-debug.*
+#source/css/*.css
+#source/css/*.map
+Thumbs.db
